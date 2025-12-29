@@ -22,7 +22,7 @@ export default function SupportSection() {
 
         <div className="pt-4">
           <Link
-            href="https://ko-fi.com"
+            href="https://ko-fi.com/staniellg"
             target="_blank"
             className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-[#FF5E5B] text-white font-bold text-lg hover:bg-[#FF5E5B]/90 hover:scale-105 transition-all shadow-[0_0_20px_rgba(255,94,91,0.3)] hover:shadow-[0_0_40px_rgba(255,94,91,0.5)]"
           >
